@@ -18,5 +18,5 @@ module.exports = {
       },
     ],
   },
-  output: 'export', // Added for static HTML export
+  // output: 'export', // Added for static HTML export
 };
