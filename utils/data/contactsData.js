@@ -1,6 +1,6 @@
 export const contactsData = {
-    email: 'birajgtm@gmail.com',
-    phone: '+1 - 437 667 9502',
+    email: 'Radhwan',
+    phone: '+1 - 437 667 xxxx',
     address: 'Toronto, ON, Canada ',
     github: 'https://github.com/birajgtm',
     facebook: 'https://www.facebook.com/#',

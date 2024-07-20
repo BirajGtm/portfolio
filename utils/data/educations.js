@@ -7,8 +7,8 @@ export const educations = [
   },
   {
     id: 2,
-    title: "Bachelor in Computer Science & Engineering",
+    title: "Some fucking uni",
     duration: "2014 - 2018",
-    institution: "Jawaharlal Nehru Technological University Kakinada, India",
+    institution: "Tunisia",
   }
 ]
