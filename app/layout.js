@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "RADHWAN TERCHELLA- Software Developer",
   description:
-    "This is the portfolio of Biraj Gautam. I am an IT Professional and web/mobile developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This is the portfolio of Rad Terchella. I am an IT Professional and web/mobile developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
 };
 
 export default function RootLayout({ children }) {
